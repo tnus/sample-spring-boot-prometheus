@@ -32,4 +32,6 @@ The following content must be placed in the prometheus.yml file
 
 # Grafana
 
-Import the prometheus datasource and the following spring boot [statistic dashboard](https://grafana.com/dashboards/6756)      
+Import the prometheus datasource and the following spring boot [statistic dashboard](https://grafana.com/dashboards/6756)
+
+More dashboards can be found under the  src/grafana/dashboard folder      
